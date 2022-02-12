@@ -16,6 +16,6 @@ export class Article implements IArticle{
     @CreateDateColumn({nullable: true})
     created_at!: Date;
 
-    @CreateDateColumn({default: null, nullable: true})
+    @Column({ type: 'timestamptz' , nullable: true})
     updated_at!: Date;
 }

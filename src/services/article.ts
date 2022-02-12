@@ -23,6 +23,7 @@ export default ({
         if (!body) {
             throw null;  
         }
+
         const article =  getRepository(Article).create(body);
 
         return await getRepository(Article).save(article);
@@ -33,7 +34,7 @@ export default ({
         }
         const article = await getRepository(Article).findOne(id);
         if (article) {
-            getRepository(Article).merge(article, body)
+            getRepository(Article).merge(article, {...body, updated_at: new Date()})
             return await getRepository(Article).save(article);
         }
         return null
