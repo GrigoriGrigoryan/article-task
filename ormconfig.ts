@@ -13,7 +13,7 @@ const config: ConnectionOptions = {
     database: process.env.POSTGRES_DB || "pg_data",
     entities: [Article],
     // ssl:{rejectUnauthorized:false},
-    migrationsRun: true,
+    // migrationsRun: true,
     migrations:[
         path.join(__dirname, "src/db/migrations/**/*.ts")
     ],
@@ -22,7 +22,7 @@ const config: ConnectionOptions = {
         entitiesDir:path.join(__dirname, "src/entities")
     },
     logging: true,
-    synchronize: false,
+    synchronize: true,
 }
 
 export default config;

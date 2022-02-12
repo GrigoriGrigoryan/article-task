@@ -6,6 +6,8 @@ export default ({
     async getAll() {
         const articles = await getRepository(Article).find();
         articles.sort((a, b) => a.id - b.id);
+        
+
         return articles;
     },
     async getOne(id: string | number) {
@@ -19,9 +21,9 @@ export default ({
     },
     async createArticle(body: IArticle) {
         if (!body) {
-            throw null;
+            throw null;  
         }
-        const article = getRepository(Article).create(body);
+        const article =  getRepository(Article).create(body);
 
         return await getRepository(Article).save(article);
     },

@@ -3,16 +3,12 @@ import { body } from 'express-validator';
 export const createArticleDto = [
     body('heading')
         .isString()
-        .notEmpty()
+        .optional()
         .withMessage('Not valid heading'),
     body('content')
         .isString()
         .notEmpty()
         .withMessage('Not valid content'),
-    body('created_at')
-        .isDate()
-        .notEmpty()
-        .withMessage('Not valid Date')
 ];
 
 export const updateArticleDto = [
@@ -24,8 +20,4 @@ export const updateArticleDto = [
         .isString()
         .optional()
         .withMessage('Not valid content'),
-    body('updated_at')
-        .isDate()
-        .notEmpty()
-        .withMessage('Not valid Date')
 ];

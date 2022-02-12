@@ -28,6 +28,7 @@ class Article {
         try {
             const body = req.body;
             const data = await article.createArticle(body);
+            
             res.status(StatusCode.CreateRequest).json(data);
         } catch (err) {
             next(HttpErr.internalServerError(ExceptionMessages.INTERNAL));
