@@ -16,7 +16,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Leaf</h3>
+  <h3 align="center">Article Task</h3>
 
   <p align="center">
     Read README to jumpstart project!
@@ -65,9 +65,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]()
-
-
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over 
@@ -109,8 +106,6 @@ To get a local copy up and running follow these simple example steps.
 
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
