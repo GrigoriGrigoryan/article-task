@@ -1,0 +1,21 @@
+.post{
+    margin: 3% 0 ;
+    width: 100%;
+    padding-left: 3%;
+    padding-right: 1%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.header{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+.head{
+    font-size: 20px;
+    font-weight: bold;
+}
+.description{
+    width: 100%;
+}

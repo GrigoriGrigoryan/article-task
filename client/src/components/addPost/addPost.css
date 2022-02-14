@@ -1,0 +1,23 @@
+.form{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.text_name{
+    width: 80%;
+    font-size: 20px;
+    padding: .5em;
+}
+textarea{
+    resize: none;
+    width: 80%;
+    height: 10vh;
+    margin: 1em 0;
+    padding: .5em;
+}
+.submit{
+    width: 20%;
+    font-size: 20px;
+}
