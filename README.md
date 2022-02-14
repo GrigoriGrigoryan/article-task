@@ -12,23 +12,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
 <h3 align="center">Article Task</h3>
 
   <p align="center">
     Read README to jumpstart project!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/GrigoriGrigoryan/article-task"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/GrigoriGrigoryan/backend-team">View Demo</a>
+    <a href="https://github.com/GrigoriGrigoryan/article-task">View Demo</a>
     ·
-    <a href="https://github.com/GrigoriGrigoryan/backend-team/issues">Report Bug</a>
+    <a href="https://github.com/GrigoriGrigoryan/article-task/issues">Report Bug</a>
     ·
-    <a href="https://github.com/GrigoriGrigoryan/backend-team/issues">Request Feature</a>
+    <a href="https://github.com/GrigoriGrigoryan/article-task/issues">Request Feature</a>
   </p>
 </div>
 
@@ -204,7 +204,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Grigori - [LinkedIn](https://www.linkedin.com/in/grigori-g-2b7247207/) - grigorigrigoryan8@gmail.com
 
-Project Link: [https://github.com/GrigoriGrigoryan/backend-team](https://github.com/GrigoriGrigoryan/backend-team)
+Project Link: [https://github.com/GrigoriGrigoryan/article-task](https://github.com/GrigoriGrigoryan/article-task)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -215,14 +215,14 @@ Project Link: [https://github.com/GrigoriGrigoryan/backend-team](https://github.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-[forks-shield]: https://img.shields.io/github/forks/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
-[forks-url]: https://github.com/GrigoriGrigoryan/backend-team/network/members
-[stars-shield]: https://img.shields.io/github/stars/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
-[stars-url]: https://github.com/GrigoriGrigoryan/backend-team/stargazers
-[issues-shield]: https://img.shields.io/github/issues/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
-[issues-url]: https://github.com/GrigoriGrigoryan/backend-team/issues
-[license-shield]: https://img.shields.io/github/license/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/GrigoriGrigoryan/backend-team/blob/master/LICENSE.txt
+[forks-shield]: https://github.com/GrigoriGrigoryan/article-task.svg?style=for-the-badge
+[forks-url]: https://github.com/GrigoriGrigoryan/article-task/network/members
+[stars-shield]: https://github.com/GrigoriGrigoryan/article-task.svg?style=for-the-badge
+[stars-url]: https://github.com/GrigoriGrigoryan/article-task/stargazers
+[issues-shield]: https://github.com/GrigoriGrigoryan/article-task.svg?style=for-the-badge
+[issues-url]: https://github.com/GrigoriGrigoryan/article-task/issues
+[license-shield]: https://github.com/GrigoriGrigoryan/article-task.svg?style=for-the-badge
+[license-url]: https://github.com/GrigoriGrigoryan/article-task/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/grigori-g-2b7247207/
 
