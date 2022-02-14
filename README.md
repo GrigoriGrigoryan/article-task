@@ -216,14 +216,14 @@ Project Link: [https://github.com/GrigoriGrigoryan/article-task](https://github.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-[forks-shield]: https://github.com/GrigoriGrigoryan/article-task.svg?style=for-the-badge
-[forks-url]: https://github.com/GrigoriGrigoryan/article-task/network/members
-[stars-shield]: https://github.com/GrigoriGrigoryan/article-task.svg?style=for-the-badge
-[stars-url]: https://github.com/GrigoriGrigoryan/article-task/stargazers
-[issues-shield]: https://github.com/GrigoriGrigoryan/article-task.svg?style=for-the-badge
-[issues-url]: https://github.com/GrigoriGrigoryan/article-task/issues
-[license-shield]: https://github.com/GrigoriGrigoryan/article-task.svg?style=for-the-badge
-[license-url]: https://github.com/GrigoriGrigoryan/article-task/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
+[forks-url]: https://github.com/GrigoriGrigoryan/backend-team/network/members
+[stars-shield]: https://img.shields.io/github/stars/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
+[stars-url]: https://github.com/GrigoriGrigoryan/backend-team/stargazers
+[issues-shield]: https://img.shields.io/github/issues/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
+[issues-url]: https://github.com/GrigoriGrigoryan/backend-team/issues
+[license-shield]: https://img.shields.io/github/license/GrigoriGrigoryan/backend-team.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/GrigoriGrigoryan/backend-team/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/grigori-g-2b7247207/
 
