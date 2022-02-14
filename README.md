@@ -67,7 +67,9 @@
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
+
 * You shouldn't be doing the same tasks over and over
+
 * You should implement DRY principles to the rest of your life :smile:
 
 
@@ -134,6 +136,7 @@ To get a local copy up and running follow these simple example steps.
 ## Usage
 
 To Run project run command
+
    ```sh
    docker-compose up 
    ```
@@ -145,7 +148,9 @@ For migration part open second terminal and run command
    ```sh
    docker exec -it greenteam-web-1 bash 
    ```
-After entering doker terminal run command
+
+After entering docker terminal run command
+
    ```sh
     npm run typeorm:migration:generate -- init1
    ```
@@ -160,8 +165,6 @@ After entering doker terminal run command
 - [x] Add Article
 - [x] Edit Article
 - [x] Add Migrations
-- [ ] Add Authorization
-- [ ] Multi-language Support
     - [x] English
     - [ ] Russian
 
@@ -222,3 +225,4 @@ Project Link: [https://github.com/GrigoriGrigoryan/backend-team](https://github.
 [license-url]: https://github.com/othneildrew/GrigoriGrigoryan/backend-team/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/grigori-g-2b7247207/
+
